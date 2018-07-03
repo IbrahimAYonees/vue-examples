@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bddb7ad9-7856-4bba-b47e-74d4c159892b" name="Default" comment="" />
+    <list default="true" id="bddb7ad9-7856-4bba-b47e-74d4c159892b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/quiz.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/quiz/answer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/quiz/app.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/quiz/question.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/quiz/quiz.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/quiz/results.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,63 +20,88 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <state relative-caret-position="782">
+              <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tasklist.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tasklist.html">
+      <file leaf-file-name="quiz.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quiz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+            <state relative-caret-position="629">
+              <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="markdown.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/markdown.html">
+      <file leaf-file-name="question.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/quiz/question.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/markdown/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="editor.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/markdown/editor.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state relative-caret-position="1085">
+              <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
               <folding>
-                <marker date="1530610431361" expanded="true" signature="191:381" ph="..." />
+                <marker date="1530612588725" expanded="true" signature="239:694" ph="..." />
+                <marker date="1530612588725" expanded="true" signature="326:574" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="preview.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/markdown/preview.js">
+      <file leaf-file-name="answer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/quiz/answer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+            <state relative-caret-position="528">
+              <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+              <folding>
+                <marker date="1530612593246" expanded="true" signature="107:362" ph="..." />
+                <marker date="1530612593246" expanded="true" signature="168:335" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quiz.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/quiz/quiz.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-714">
+              <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+              <folding>
+                <marker date="1530612588691" expanded="true" signature="362:1076" ph="..." />
+                <marker date="1530612588691" expanded="true" signature="416:539" ph="..." />
+                <marker date="1530612588691" expanded="true" signature="581:1049" ph="..." />
+                <marker date="1530612588691" expanded="true" signature="720:1013" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="results.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/quiz/results.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+              <folding>
+                <marker date="1530613030426" expanded="true" signature="120:990" ph="..." />
+                <marker date="1530613030426" expanded="true" signature="189:334" ph="..." />
+                <marker date="1530613030426" expanded="true" signature="424:963" ph="..." />
+                <marker date="1530613030426" expanded="true" signature="523:727" ph="..." />
+                <marker date="1530613030426" expanded="true" signature="791:932" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/quiz/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -83,6 +117,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -91,11 +128,17 @@
         <option value="$PROJECT_DIR$/src/tasklist/task.js" />
         <option value="$PROJECT_DIR$/src/tasklist/taskform.js" />
         <option value="$PROJECT_DIR$/tasklist.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/markdown/editor.js" />
         <option value="$PROJECT_DIR$/src/markdown/preview.js" />
         <option value="$PROJECT_DIR$/src/markdown/app.js" />
         <option value="$PROJECT_DIR$/markdown.html" />
+        <option value="$PROJECT_DIR$/src/quiz/app.js" />
+        <option value="$PROJECT_DIR$/src/quiz/quiz.js" />
+        <option value="$PROJECT_DIR$/src/quiz/question.js" />
+        <option value="$PROJECT_DIR$/src/quiz/answer.js" />
+        <option value="$PROJECT_DIR$/quiz.html" />
+        <option value="$PROJECT_DIR$/src/quiz/results.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -118,6 +161,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1066" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -150,7 +194,7 @@
               <item name="vueExamples" type="b2602c69:ProjectViewProjectNode" />
               <item name="vueExamples" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="markdown" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="quiz" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -193,12 +237,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530606660711</updated>
-      <workItem from="1530606662354" duration="4594000" />
+      <workItem from="1530606662354" duration="6166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4594000" />
+    <option name="totallyTimeSpent" value="6166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -210,7 +254,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -291,22 +335,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tasklist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/tasklist/taskform.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1054">
@@ -336,6 +364,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://E:/Ibrahim/courses/Learn Vue.js by example/vuebyexample/02-markdown-editor/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="632">
+          <caret line="45" column="2" lean-forward="false" selection-start-line="45" selection-start-column="2" selection-end-line="50" selection-end-column="14" />
+          <folding>
+            <element signature="e#828#1337#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/markdown.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markdown/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/markdown/editor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -348,34 +402,116 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/markdown/preview.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        <state relative-caret-position="148">
+          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Ibrahim/courses/Learn Vue.js by example/vuebyexample/02-markdown-editor/index.html">
+    <entry file="file://$PROJECT_DIR$/tasklist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="45" column="2" lean-forward="false" selection-start-line="45" selection-start-column="2" selection-end-line="50" selection-end-column="14" />
+        <state relative-caret-position="175">
+          <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Ibrahim/courses/Learn Vue.js by example/vuebyexample/03-quiz/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding>
-            <element signature="e#828#1337#0" expanded="false" />
+            <element signature="e#547#2170#0" expanded="false" />
+            <element signature="e#2197#2793#0" expanded="false" />
+            <element signature="e#2822#4072#0" expanded="false" />
+            <element signature="e#4097#6454#0" expanded="false" />
+            <element signature="e#6486#6610#0" expanded="false" />
+            <marker date="1501329038000" expanded="true" signature="701:1571" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="770:915" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="1005:1544" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="1104:1308" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="1372:1513" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="2339:2594" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="2400:2567" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="3190:3645" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="3277:3525" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="4616:5330" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="4670:4793" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="4835:5303" ph="..." />
+            <marker date="1501329038000" expanded="true" signature="4974:5267" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/markdown/app.js">
+    <entry file="file://$PROJECT_DIR$/src/quiz/question.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="1085">
+          <caret line="35" column="2" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+          <folding>
+            <marker date="1530612588725" expanded="true" signature="239:694" ph="..." />
+            <marker date="1530612588725" expanded="true" signature="326:574" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/answer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+          <folding>
+            <marker date="1530612593246" expanded="true" signature="107:362" ph="..." />
+            <marker date="1530612593246" expanded="true" signature="168:335" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quiz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="17" column="14" lean-forward="false" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/markdown.html">
+    <entry file="file://$PROJECT_DIR$/src/quiz/results.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="720">
+          <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+          <folding>
+            <marker date="1530613030426" expanded="true" signature="120:990" ph="..." />
+            <marker date="1530613030426" expanded="true" signature="189:334" ph="..." />
+            <marker date="1530613030426" expanded="true" signature="424:963" ph="..." />
+            <marker date="1530613030426" expanded="true" signature="523:727" ph="..." />
+            <marker date="1530613030426" expanded="true" signature="791:932" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/quiz/quiz.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding>
+            <marker date="1530612588691" expanded="true" signature="362:1076" ph="..." />
+            <marker date="1530612588691" expanded="true" signature="416:539" ph="..." />
+            <marker date="1530612588691" expanded="true" signature="581:1049" ph="..." />
+            <marker date="1530612588691" expanded="true" signature="720:1013" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
           <folding />
         </state>
       </provider>
