@@ -25,12 +25,12 @@ let Question = {
                 `,
     methods: {
         checkAnswer (answer) {
-            this.showNext = true
-            this.$emit('question:answered', this.question, answer)
+            this.showNext = true;
+            this.$emit('question:answered', this.question, answer);
         },
         nextQuestion () {
-            this.showNext = false
-            this.$emit('question:next')
+            this.showNext = false;
+            this.$emit('question:next');
         }
     }
 };

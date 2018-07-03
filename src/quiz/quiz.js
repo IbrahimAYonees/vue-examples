@@ -30,19 +30,19 @@ let Quiz = {
                 `,
     mounted () {
         axios.get('questions.json').then((response) => {
-            this.questions = response.data
-            this.currentQuestion = this.questions[0]
+            this.questions = response.data;
+            this.currentQuestion = this.questions[0];
         })
     },
     methods: {
         setNextQuestion () {
             if (this.allQuestionsAnswered()) {
-                this.showResults = true
-                return
+                this.showResults = true;
+                return;
             }
 
-            this.currentQuestionNumber++
-            this.currentQuestion = this.questions[this.currentQuestionNumber - 1]
+            this.currentQuestionNumber++;
+            this.currentQuestion = this.questions[this.currentQuestionNumber - 1];
         },
         allQuestionsAnswered () {
             return this.currentQuestionNumber === this.questions.length;
@@ -51,7 +51,7 @@ let Quiz = {
             this.answeredQuestions.push({
                 question: question,
                 answer: answer
-            })
+            });
         }
     }
-}
+};

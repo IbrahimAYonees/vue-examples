@@ -11,7 +11,7 @@ let Answer = {
                 `,
     methods: {
         choose (answer) {
-            this.$emit('answer:chosen', answer)
+            this.$emit('answer:chosen', answer);
         }
     }
 };
